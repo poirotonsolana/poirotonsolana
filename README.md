@@ -13,7 +13,6 @@ Poirot allows auditors to compete for prize pool funds by identifying bugs in pr
 - **Competitive Auditing:** Auditors compete for prize pool funds by identifying bugs in protocol code.
 - **Transparent Judging:** Judges evaluate the reported issues based on our platforms public rules.
 - **Fixed Time Length:** Audits have a predefined duration, keeping the competition dynamic and engaging.
-- **Secure Platform:** Built on Solana, leveraging its robustness and security features of audits.
 - **Payout Mechanism:** Payouts are distributed based on the severity, rarity and validity of the reported bugs.
 
 <!---
