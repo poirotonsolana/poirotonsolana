@@ -13,7 +13,24 @@ Poirot allows auditors to compete for prize pool funds by identifying bugs in pr
 - **Competitive Auditing:** Auditors compete for prize pool funds by identifying bugs in protocol code.
 - **Transparent Judging:** Judges evaluate the reported issues based on our platforms public rules.
 - **Fixed Time Length:** Audits have a predefined duration, keeping the competition dynamic and engaging.
-- **Payout Mechanism:** Payouts are distributed based on the severity, rarity and validity of the reported bugs.
+- **Payout Mechanism:** Payouts are distributed based on the severity, rarity and validity of the reported bugs. Algorithm that determines payout is being designed as of now.
+
+Poirot-frontend stack: 
+
+    Next.js, TypeScript, React Query, MUI, web3.js
+
+Poirot-backend stack: 
+
+    NestJS, TypeScript, Prisma, PostgreSQL, web3.js, metaplex.js
+
+
+v1 will include a functioning platform for completing audit contests.
+
+Future versions are expected to include: 
+- Games & challenges & prizes for upcoming Rust auditors
+- Insurance pool mechanism
+- Smartphone support
+- Cross-chain audits ( why stop at Solana ? )
 
 <!---
 poirotonsolana/poirotonsolana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
