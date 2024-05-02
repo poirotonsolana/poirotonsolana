@@ -1,6 +1,6 @@
 ## Welcome to Poirot!
 
-# Poirot: Competitive Audit Platform on Solana
+# The first competitive audit platform on Solana
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
