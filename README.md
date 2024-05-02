@@ -4,8 +4,6 @@
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Welcome to Poirot, first competitive audit platform built on Solana! 
-
 Poirot allows auditors to compete for prize pool funds by identifying bugs in protocol code. With a fixed time length, auditors hunt for vulnerabilities, submit their findings through our platform, and await judgment from judges. Once the audit concludes, payouts are distributed based on the validity of the reported issues.
 
 ## Features
